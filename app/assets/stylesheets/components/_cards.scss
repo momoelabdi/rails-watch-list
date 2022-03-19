@@ -1,4 +1,6 @@
 .card-category {
+  margin: 10px;
+  border-radius: 10px;
   background-size: cover;
   background-position: center;
   height: 180px;
@@ -10,6 +12,7 @@
   font-weight: bold;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  background-color: rgb(73, 47, 47);
 }
 
 .card-large {
